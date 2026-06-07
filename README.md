@@ -119,3 +119,8 @@ The long-term objective of BOB is to evolve into a fully intelligent robotic ass
 ##  Project Statement
 
 "Artificial Intelligence becomes truly powerful when it leaves the screen and begins interacting with the real world."
+---
+
+## 🎓 Final Project Poster
+
+![BOB Final Poster](BOB-Final_Poster.png)
