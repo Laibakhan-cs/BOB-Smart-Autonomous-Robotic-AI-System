@@ -1,5 +1,5 @@
 # BOB-Smart-Autonomous-Robotic-AI-System 
-
+![BOB Banner](bob-banner.jpg)
 ### "Where Artificial Intelligence Meets Physical Reality"
 
 BOB is an intelligent autonomous robotic platform designed to perceive its environment, analyze information, make decisions, and perform actions without direct human intervention.
